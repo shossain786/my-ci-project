@@ -1,0 +1,16 @@
+{
+  "name": "my-new-project",
+  "version": "1.0.0",
+  "description": "A simple Node.js project with CI pipeline setup using GitHub Actions",
+  "main": "src/sum.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node src/sum.js"
+  },
+  "keywords": [],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
